@@ -661,6 +661,7 @@ main {
 }
 
 .swiper-slide {
+  width: 350px;
   max-width: 350px;
   min-width: 300px;
 }
@@ -707,6 +708,7 @@ main {
     }
 
     .swiper-slide {
+      width:400px;
       max-width: 400px;
       min-width: 400px;
     }
